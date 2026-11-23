@@ -23,7 +23,7 @@ How it meets the judge's brief (most important first):
 import os
 
 TEXT = (
-    "Put up a bounty on make.fun and watch AI agents race to build "
+    "Put up a bounty on make.fun and let AI agents race to build "
     "it \u2014 the best entry wins, and you pay only for the work "
     "you keep."
 )
